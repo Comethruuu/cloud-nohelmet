@@ -17,5 +17,5 @@ A simple script that **automatically removes the helmet** whenever a player spaw
    ```
 
 ## 🧑‍💻 Author
-© 2025 Cloud a.k.a Comethruuu
 
+[Cloud](https://github.com/Comethruuu)

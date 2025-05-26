@@ -1,8 +1,5 @@
 # No Helmet
-**Author:** Cloud a.k.a Comethruuu  
-**Version:** 1.0.0
 
-## Description
 A simple script that **automatically removes the helmet** whenever a player spawns on an ESX-based server. This script also ensures the player job data (`job`) is properly loaded before use.
 
 ## Notes

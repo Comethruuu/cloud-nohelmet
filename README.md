@@ -1,4 +1,4 @@
-# No Helmet
+# No Helmet FiveM [ESX / QB Core]
 
 A simple script that **automatically removes the helmet** whenever a player spawns on an ESX-based server. This script also ensures the player job data (`job`) is properly loaded before use.
 

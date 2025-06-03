@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'No Helmet'
-author 'Cloud a.k.a Comethruuu'
+author 'cloud'
 version '1.0.0'
 repository 'https://github.com/Comethruuu/cloud-nohelmet.git'
 

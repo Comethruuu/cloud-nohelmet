@@ -16,9 +16,7 @@
    ```
 ---
 ## 🧑‍💻 Author
-
 [Cloud](https://github.com/Comethruuu)
-
 
 ---
 ## 💖 Support

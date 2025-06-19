@@ -21,3 +21,7 @@
 
 
 ---
+## 💖 Support
+If you find this project useful, please consider leaving a ⭐ star and 🔁 forking it to make it your own!
+
+---

@@ -11,7 +11,7 @@
 ## 🛠 Installation
 1. Place this script folder into your FiveM server’s `resources/[local]/` directory.
 2. Add the following line to your `server.cfg`:
-   ```cfg
+   ```bash
    ensure cloud-nohelmet
    ```
 ---
